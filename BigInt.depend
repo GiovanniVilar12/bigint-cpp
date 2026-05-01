@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1757639195 source:c:\users\vilar\onedrive\desktop\lip\bigint\main.cpp
+	<iostream>
+	<iomanip>
+	<string>
+	"bigint.h"
+
+1757614627 c:\users\vilar\onedrive\desktop\lip\bigint\bigint.h
+	<iostream>
+	<cstdint>
+	<string>
+
+1757781983 source:c:\users\vilar\onedrive\desktop\lip\bigint\bigint.cpp
+	<iostream>
+	<string>
+	<cmath>
+	<limits>
+	"BigInt.h"
+
